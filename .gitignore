@@ -1,0 +1,9 @@
+# Java
+*.class
+*.jar
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
