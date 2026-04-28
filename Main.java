@@ -4,7 +4,7 @@ import java.util.*;
  * TechPrep v2.0 — Modular Java Assessment Tool
  * Entry point: handles menus and session configuration.
  */ 
-public class Main {
+public class Main { 
 
     private static final Scanner scanner = new Scanner(System.in);
     private static final QuestionBank bank = new QuestionBank();
