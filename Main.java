@@ -9,7 +9,7 @@ public class Main {
     private static final Scanner scanner = new Scanner(System.in);
     private static final QuestionBank bank = new QuestionBank();
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         UI.banner();
         System.out.println("  " + Color.DIM + "Total questions loaded: "
             + bank.totalCount() + Color.RESET);
