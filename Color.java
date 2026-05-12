@@ -3,7 +3,7 @@
  * Automatically disabled on Windows (cmd/powershell lack ANSI support by default).
  */
 public class Color {
-
+ 
     private static final boolean ENABLED = !System.getProperty("os.name", "")
                                                    .toLowerCase().contains("win");
 
