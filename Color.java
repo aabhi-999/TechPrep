@@ -5,7 +5,7 @@
 public class Color {
  
     private static final boolean ENABLED = !System.getProperty("os.name", "")
-                                                   .toLowerCase().contains("win");
+                                                   .toLowerCase().contains("win"); 
 
     public static final String RESET   = code("\033[0m");
     public static final String BOLD    = code("\033[1m");
