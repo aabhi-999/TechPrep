@@ -2,7 +2,7 @@ public enum Category {
     JAVA("Java", "☕"),
     PYTHON("Python", "🐍"),
     CPP("C++", "⚙️"); 
-    DBMS("DBMS","📥");
+    DBMS("DBMS","📥"); 
  
     private final String displayName;
     private final String icon;
