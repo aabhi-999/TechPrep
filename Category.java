@@ -8,7 +8,7 @@ public enum Category {
     private final String icon;
 
     Category(String displayName, String icon) {
-        this.displayName = displayName;
+        this.displayName = displayName; 
         this.icon = icon;
     }
 
