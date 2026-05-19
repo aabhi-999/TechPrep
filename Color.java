@@ -2,7 +2,7 @@
  * ANSI escape codes for coloured console output.
  * Automatically disabled on Windows (cmd/powershell lack ANSI support by default).
  */
-public class Color {
+public class Color { "main code"
  
     private static final boolean ENABLED = !System.getProperty("os.name", "")
                                                    .toLowerCase().contains("win"); 
