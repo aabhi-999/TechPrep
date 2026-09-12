@@ -3,6 +3,9 @@ public enum Category {
     PYTHON("Python", "🐍"),
     CPP("C++", "⚙️");  
     DBMS("DBMS","");  
+    JAVASCRIPT("JAVASCRIPT",""):
+        
+        
  
     private final String displayName;
     private final String icon;
