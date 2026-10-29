@@ -6,7 +6,7 @@ import java.util.*;
  */  
 public class Main { 
 
-    private static final Scanner scanner = new Scanner(System.in);
+    private static final Scanner scanner = new Scanner(System.in); 
     private static final QuestionBank bank = new QuestionBank();
 
     public static void main(String[] args) {  
