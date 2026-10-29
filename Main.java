@@ -24,7 +24,7 @@ public class Main {
         System.out.println("  " + Color.cyan("Thanks for using TechPrep. Good luck with your interviews! 🚀"));
         System.out.println();
         scanner.close();
-    }
+    } 
 
     // ─── Main menu ────────────────────────────────────────────────────────────
 
